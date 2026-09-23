@@ -37,9 +37,10 @@ public class Laptop
         kosten = neuKosten;
     }
 
-    public void setNeu(boolean neuNeu)
+    public void setNeu(boolean neuNeu1)
     {
-        neu = neuNeu;
+        neu = neuNeu1;
     }
+    
 }
 
